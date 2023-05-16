@@ -8,7 +8,7 @@ description: An ACES config generated from python
 
 
 roles:
-  color_picking: Output - sRGB
+  color_picking: Utility - sRGB - Texture
   color_timing: ACES - ACEScc
   compositing_linear: ACES - ACEScg
   compositing_log: Input - ADX - ADX10
